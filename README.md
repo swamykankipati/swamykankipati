@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  I am SwamyKankipati👋
 
 ### 🔭 I’m currently working as Multi Skill Trainer at APSSDC
 - for the Past 4 year's.
@@ -11,7 +11,7 @@
 -  Web Designing
 - Python 
 - Data Science
-- Git& Github
+- Git & Github
 - MIT App Inventor
 - Google Productivity Tools
 - Basics of Linux 
@@ -23,7 +23,7 @@
 
 ## 🤔 I’m Looking for help with ...
 - Research Proposal for PhD
-- need more Paper Publications
+- Paper Publications writing information
 
 ## 💬 Ask me about
 #### We Can Use 5 Whys Method
