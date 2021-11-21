@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working as Multi Skill Trainer at APSSDC
+- for the Past 4 year's.
 - It was amazing experience working with apssdc. 
 - In the process of exploring different cities to be interact with the people 
 - its gives joyful and unforgettable experience, 
@@ -25,5 +26,11 @@
 - need more Paper Publications
 
 ## 💬 Ask me about
+#### We Can Use 5 Whys Method
+- Where are You From?
+- When Did You Joined?
+- Why do Choose higher eduction after Graduation?
+- Who is reference from this Job?
+- What is your thought on joining IT company
 
 ##  📫 How to reach me
