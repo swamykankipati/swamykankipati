@@ -10,11 +10,30 @@
 ### 🌱 I’m currently working this Technologies
 -  Web Designing
 - Python 
-- Data Science
+  - HTML5
+  - CSS3 && Bootstrap5
+  - JavaScript
+  - ReactJs
+- Data Science With Python
+  - Numpy 
+  - Pandas
+  - Matplotlib
+  - Python Programming
+  - Flask
+  - Django
 - Git & Github
-- MIT App Inventor
+  - Source Code Management 
+- MIT App Inventor2
+  - Mobile Apps Developments
 - Google Productivity Tools
-- Basics of Linux 
+  - Google Docus
+  - Google Sheets
+  - Google slides 
+- Basics of Linux && Networking
+  - Commands
+  - Linux Administration
+  - OS Installation 
+
 ##  Educational Details 
 - 🎓🎓  Master of Computer Science at KIET<br>
 - 🎓 Bachelor of Computer Science at SPCE Tuni<br>
