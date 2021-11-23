@@ -10,29 +10,21 @@
 ### 🌱 I’m currently working this Technologies
 -  Web Designing
 - Python 
-  - HTML5
-  - CSS3 && Bootstrap5
-  - JavaScript
-  - ReactJs
+  - HTML5 && CSS3 && Bootstrap5
+  - JavaScript && ReactJs
 - Data Science With Python
-  - Numpy 
-  - Pandas
-  - Matplotlib
+  - Numpy && Pandas && Matplotlib
   - Python Programming
-  - Flask
-  - Django
+  - Flask && Django
 - Git & Github
   - Source Code Management 
 - MIT App Inventor2
   - Mobile Apps Developments
 - Google Productivity Tools
-  - Google Docus
-  - Google Sheets
-  - Google slides 
+  - Google Docus && Google Sheets
+  - Google slides && Raptor
 - Basics of Linux && Networking
-  - Commands
-  - Linux Administration
-  - OS Installation 
+  - Linux Administrations && OS Installation 
 
 ##  Educational Details 
 - 🎓🎓  Master of Computer Science at KIET<br>
