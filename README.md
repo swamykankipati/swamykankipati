@@ -29,7 +29,7 @@
 ##  Educational Details 
 - 🎓🎓  Master of Computer Science at KIET<br>
 - 🎓 Bachelor of Computer Science at SPCE Tuni<br>
-- 🏫 Intermediate at Sri Raja Junior Collge Tuni <br>
+- 📚  Intermediate at Sri Raja Junior Collge Tuni <br>
 - 🏫 ZPH School Satyavaram <br>
 
 ## 🤔 I’m Looking for help with ...
