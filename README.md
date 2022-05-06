@@ -1,6 +1,6 @@
 ### Hi there  I am SwamyKankipati👋
 
-### 🔭 I’m currently working as Multi Skill Trainer at APSSDC
+### 🔭 I’m currently working as Trainer Cum Developer at APSSDC
 - for the Past 4 year's.
 - It was amazing experience working with apssdc. 
 - In the process of exploring different cities to be interact with the people 
